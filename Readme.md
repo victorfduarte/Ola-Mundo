@@ -1,2 +1,3 @@
-Este é o meu primeiro projeto do Git
-Essa é uma alteração
+# Olá, Mundo
+Este é o meu primeiro repositório
+Criado em uma aula do Curso em Vídeo
